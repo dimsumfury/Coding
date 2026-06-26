@@ -1,2 +1,2 @@
 # Coding
-coding journey starts here
+I post my assignments while learning to code here
