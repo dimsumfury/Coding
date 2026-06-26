@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosh\\OneDrive\\Documents\\Coding\\Python\\the_elder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5524D9-87FE-493C-9C4C-52CCF221D4E4}|the_elder.pyproj|C:\\Users\\kyosh\\OneDrive\\Documents\\Coding\\Python\\the_elder\\the_elder.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D5524D9-87FE-493C-9C4C-52CCF221D4E4}|the_elder.pyproj|solutionrelative:the_elder.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "the_elder.py",
+              "DocumentMoniker": "C:\\Users\\kyosh\\OneDrive\\Documents\\Coding\\Python\\the_elder\\the_elder.py",
+              "RelativeDocumentMoniker": "the_elder.py",
+              "ToolTip": "C:\\Users\\kyosh\\OneDrive\\Documents\\Coding\\Python\\the_elder\\the_elder.py*",
+              "RelativeToolTip": "the_elder.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-06-26T02:07:27.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

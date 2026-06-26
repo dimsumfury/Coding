@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosh\\OneDrive\\Documents\\Coding\\Python\\PythonApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6D6632-EA52-4B45-BACD-F0D103188750}|PythonApplication1.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\file_debug_excercise.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file_debug_excercise.py",
+              "DocumentMoniker": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\file_debug_excercise.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\Coding\\Coding\\python\\file_debug_excercise.py",
+              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\file_debug_excercise.py",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\Coding\\Coding\\python\\file_debug_excercise.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-06-25T23:34:20.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
