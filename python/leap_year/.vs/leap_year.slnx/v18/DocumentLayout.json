@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\leap_year\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8CF6F8-C8EF-403F-BF6A-317A86674211}|leap_year.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\leap_year\\leap_year.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A8CF6F8-C8EF-403F-BF6A-317A86674211}|leap_year.pyproj|solutionrelative:leap_year.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "leap_year.py",
+              "DocumentMoniker": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\leap_year\\leap_year.py",
+              "RelativeDocumentMoniker": "leap_year.py",
+              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\leap_year\\leap_year.py",
+              "RelativeToolTip": "leap_year.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-06-26T20:33:12.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
