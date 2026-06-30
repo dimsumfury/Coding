@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\input_validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{143EB9EF-4DBA-485A-863B-2AD6864DC284}|input_validation.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\input_validation\\input_validation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{143EB9EF-4DBA-485A-863B-2AD6864DC284}|input_validation.pyproj|solutionrelative:input_validation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input_validation.py",
+              "DocumentMoniker": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\input_validation\\input_validation.py",
+              "RelativeDocumentMoniker": "input_validation.py",
+              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\input_validation\\input_validation.py*",
+              "RelativeToolTip": "input_validation.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-06-29T19:16:05.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\story\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29077AD5-175B-4504-B15D-EAEB5CF8501F}|story.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\story\\story.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29077AD5-175B-4504-B15D-EAEB5CF8501F}|story.pyproj|solutionrelative:story.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "story.py",
+              "DocumentMoniker": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\story\\story.py",
+              "RelativeDocumentMoniker": "story.py",
+              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\story\\story.py*",
+              "RelativeToolTip": "story.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-06-29T20:44:45.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

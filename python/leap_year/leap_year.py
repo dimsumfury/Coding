@@ -5,10 +5,15 @@ if year % 100 == 0:
         leap_year = True
 elif year % 4 == 0:
     leap_year = True
-       
-if leap_year:
-    print("That year is a leap year.")
-else:
-    print("That year is not a leap year.")
 
-        
+if leap_year:
+    print(f"The next leap year after {year} is {year + 4}")
+
+while False:
+    year += 1
+    if leap_year:
+        year + 4
+        print(f"The next leap year after {year} is {year + 4}")
+        break
+
+
