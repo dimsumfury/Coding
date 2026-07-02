@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\second_and_second_to_last_characters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B84CBC-F8A8-4B05-A745-B0A8D940E06C}|second_and_second_to_last_characters.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\second_and_second_to_last_characters\\second_and_second_to_last_characters.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69B84CBC-F8A8-4B05-A745-B0A8D940E06C}|second_and_second_to_last_characters.pyproj|solutionrelative:second_and_second_to_last_characters.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "second_and_second_to_last_characters.py",
+              "DocumentMoniker": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\second_and_second_to_last_characters\\second_and_second_to_last_characters.py",
+              "RelativeDocumentMoniker": "second_and_second_to_last_characters.py",
+              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\second_and_second_to_last_characters\\second_and_second_to_last_characters.py",
+              "RelativeToolTip": "second_and_second_to_last_characters.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-07-02T22:34:04.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

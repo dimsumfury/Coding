@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\a_line_of_hashes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1CC25B-B9F9-46DD-ABFB-F5E6308665C3}|a_line_of_hashes.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\a_line_of_hashes\\a_line_of_hashes.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD1CC25B-B9F9-46DD-ABFB-F5E6308665C3}|a_line_of_hashes.pyproj|solutionrelative:a_line_of_hashes.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "a_line_of_hashes.py",
+              "DocumentMoniker": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\a_line_of_hashes\\a_line_of_hashes.py",
+              "RelativeDocumentMoniker": "a_line_of_hashes.py",
+              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\a_line_of_hashes\\a_line_of_hashes.py*",
+              "RelativeToolTip": "a_line_of_hashes.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-07-02T22:38:39.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
