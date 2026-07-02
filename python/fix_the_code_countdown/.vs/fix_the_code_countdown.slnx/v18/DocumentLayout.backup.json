@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\fix_the_code_countdown\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0EE5334-FC69-42A3-8B32-7828D587EBE2}|fix_the_code_countdown.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\fix_the_code_countdown\\fix_the_code_countdown.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F0EE5334-FC69-42A3-8B32-7828D587EBE2}|fix_the_code_countdown.pyproj|solutionrelative:fix_the_code_countdown.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3E83BE48-5780-4C3C-A3C2-C051AC4F3EF1}|fix_the_code_countdown.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\fix_the_code_countdown\\fix_the_code_countdown.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E83BE48-5780-4C3C-A3C2-C051AC4F3EF1}|fix_the_code_countdown.pyproj|solutionrelative:fix_the_code_countdown.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
               "Title": "fix_the_code_countdown.py",
               "DocumentMoniker": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\fix_the_code_countdown\\fix_the_code_countdown.py",
               "RelativeDocumentMoniker": "fix_the_code_countdown.py",
-              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\fix_the_code_countdown\\fix_the_code_countdown.py*",
-              "RelativeToolTip": "fix_the_code_countdown.py*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\fix_the_code_countdown\\fix_the_code_countdown.py",
+              "RelativeToolTip": "fix_the_code_countdown.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-06-29T19:23:03.674Z",
+              "WhenOpened": "2026-07-01T14:19:17.706Z",
               "EditorCaption": ""
             }
           ]

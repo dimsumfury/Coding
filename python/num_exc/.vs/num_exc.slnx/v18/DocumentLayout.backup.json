@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\num_exc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D84B1ED-32AB-4448-83A5-67A92D8A66C5}|num_exc.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\num_exc\\num_exc.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D84B1ED-32AB-4448-83A5-67A92D8A66C5}|num_exc.pyproj|solutionrelative:num_exc.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "num_exc.py",
+              "DocumentMoniker": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\num_exc\\num_exc.py",
+              "RelativeDocumentMoniker": "num_exc.py",
+              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\num_exc\\num_exc.py*",
+              "RelativeToolTip": "num_exc.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-07-01T15:04:20.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

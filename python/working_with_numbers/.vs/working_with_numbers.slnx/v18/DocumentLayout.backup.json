@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\working_with_numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477D02E1-7AB8-4B66-8262-846E790C164D}|working_with_numbers.pyproj|C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\working_with_numbers\\working_with_numbers.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{477D02E1-7AB8-4B66-8262-846E790C164D}|working_with_numbers.pyproj|solutionrelative:working_with_numbers.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "working_with_numbers.py",
+              "DocumentMoniker": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\working_with_numbers\\working_with_numbers.py",
+              "RelativeDocumentMoniker": "working_with_numbers.py",
+              "ToolTip": "C:\\Users\\kyosh\\Documents\\Coding\\Coding\\python\\working_with_numbers\\working_with_numbers.py*",
+              "RelativeToolTip": "working_with_numbers.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-06-30T14:29:26.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

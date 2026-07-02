@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>f0ee5334-fc69-42a3-8b32-7828d587ebe2</ProjectGuid>
+    <ProjectGuid>3e83be48-5780-4c3c-a3c2-c051ac4f3ef1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>fix_the_code_countdown.py</StartupFile>
     <SearchPath>
